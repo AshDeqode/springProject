@@ -86,7 +86,7 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
-		</dependency>
+		</dependency>	
 	</dependencies>
 
 	<build>
@@ -104,7 +104,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>springboot-mongo-docker</finalName>
+		<finalName>springboot-application-aws</finalName>
 	</build>
 
 </project>
